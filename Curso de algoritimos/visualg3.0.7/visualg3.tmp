@@ -1,0 +1,10 @@
+Algoritmo "Primeiro"
+Var
+
+msg:caractere
+Inicio
+      msg <- "Ola, Mundo!"
+      escreval(msg)
+      escreva("Me livrei da maldição")
+
+Fimalgoritmo
